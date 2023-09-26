@@ -7,5 +7,5 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 - [Tomb of Shadows Curse of the Nile](https://hopium.itch.io/tomb-of-shadows-curse-of-the-nile) (Check my other repository)
 
 #### Current Projects:
-(Still pending)
+- Capstone game project (coming soon)
 
