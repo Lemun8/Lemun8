@@ -2,6 +2,8 @@
 
 Nice to meet you! I'm currently an undergraduate student at Bina Nusantara University studying Game Application & Technology. I am currently a game programmer & game designer at [Hopium](https://hopium.itch.io/)
 
+My Discord Tag: lemon82992
+
 # Past Projects:
 - [BloodPriest](https://hopium.itch.io/bloodpriest) (Check my other repository)
 - [Tomb of Shadows Curse of the Nile](https://hopium.itch.io/tomb-of-shadows-curse-of-the-nile) (Check my other repository)
