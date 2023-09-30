@@ -9,3 +9,9 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 # Current Projects:
 - Capstone game project (coming soon)
 
+# Practice Projects:
+- Simple 2D Maze Game
+- Pong
+- Othello
+- Space Invaders
+
