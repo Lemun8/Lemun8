@@ -17,5 +17,5 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 - Space Invaders
 
 # Contacts
-Discord: lemon8299
-Email: maphuders4@gmail.com
+- Discord: lemon8299
+- Email: maphuders4@gmail.com
