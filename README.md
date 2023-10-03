@@ -19,3 +19,4 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 # Contacts
 - Discord: lemon8299
 - Email: maphuders4@gmail.com
+- Whatsapp: 0812-9396-7625
