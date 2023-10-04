@@ -4,8 +4,8 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 
 
 # Past Projects:
-- [BloodPriest](https://hopium.itch.io/bloodpriest) (Check my other repository)
-- [Tomb of Shadows Curse of the Nile](https://hopium.itch.io/tomb-of-shadows-curse-of-the-nile) (Check my other repository)
+- [BloodPriest](https://github.com/Lemun8/BloodPriest)
+- [Tomb of Shadows Curse of the Nile](https://github.com/Lemun8/Tomb-of-Shadows-Curse-of-the-Nile)
 
 # Current Projects:
 - Capstone game project (coming soon)
