@@ -8,13 +8,16 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 - [Tomb of Shadows Curse of the Nile](https://github.com/Lemun8/Tomb-of-Shadows-Curse-of-the-Nile)
 
 # Current Projects:
-- Capstone game project (coming soon)
+- Life of a Driver (Work in Progress)
 
 # Practice Projects:
 - Simple 2D Maze Game
 - Pong
 - Othello
 - Space Invaders
+
+# Game Engine
+- Unity
 
 # Contacts
 - Discord: lemon8299
