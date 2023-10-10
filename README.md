@@ -10,7 +10,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 - [Tomb of Shadows Curse of the Nile](https://github.com/Lemun8/Tomb-of-Shadows-Curse-of-the-Nile)
 
 # Current Projects:
-- Life of a Driver (Work in Progress)
+- [Life of a Driver](https://github.com/Lemun8/Life-of-a-Driver) (Work in Progress)
 
 # Practice Projects:
 - Simple 2D Maze Game
