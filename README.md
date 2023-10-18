@@ -5,8 +5,8 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://bgdc.itch.io/immunopedia">BloodPriest</a></th>
-      <th width="50%"><a href="https://bgdc.itch.io/work-less-play-more">Tomb of Shadows: Curse of the Nile</a></th>
+      <th width="50%"><a href="https://hopiummoon.itch.io/bloodpriest">BloodPriest</a></th>
+      <th width="50%"><a href="https://hopiummoon.itch.io/tomb-of-shadows-curse-of-the-nile">Tomb of Shadows: Curse of the Nile</a></th>
     </tr>
   </thead>
   <tbody>
