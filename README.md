@@ -12,7 +12,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
   <tbody>
     <tr>
       <td><img src="https://github.com/wainini/wainini/blob/main/img/immunopedia%20400x225.gif"/></td>
-      <td><img src="https://github.com/Lemun8/Lemun8/assets/107360799/184d1108-7f48-4729-9e67-9e53d8578b2f)"/></td>
+      <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/107360799/276195615-184d1108-7f48-4729-9e67-9e53d8578b2f.gif"/></td>
     </tr>
     <tr>
       <td valign="text-top">A tower-defense game themed around human immune system. This game was made for PkM (Pengabdian Kepada Masyarakat) BGDC 2022 with other BGDC members. Immunopedia is a game where you need to know and understand what each unit can do, be it ally or enemy.</td>
