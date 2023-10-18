@@ -19,11 +19,10 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
       <td valign="text-top"">This game the first game that I got fully made and released. Work Less Play More is a 2D beat-em-up game with a unique mechanic where you need to avoid your boss attention. The game was made for Brackeys Game Jam 2022.1 with the theme "This is not real".<div></div></td>
     </tr>
     <tr>
-      <td><a href="https://hopiummoon.itch.io/bloodpriest">Itch Page</td>
-      <td><a href="https://hopiummoon.itch.io/tomb-of-shadows-curse-of-the-nile">Itch Page</td>
+      <td><a href="https://hopiummoon.itch.io/bloodpriest">Itch.io Page</td>
+      <td><a href="https://hopiummoon.itch.io/tomb-of-shadows-curse-of-the-nile">Itch.io Page</td>
     </tr>
     <tr>
-      <td></td>
     </tr>
   </tbody>
 </table>
