@@ -26,7 +26,6 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
     </tr>
   </tbody>
 </table>
-
 <br>
         
 # Past Projects:
