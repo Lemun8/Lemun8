@@ -18,7 +18,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
     </tr>
     <tr>
       <td valign="text-top">A top down shooter game that was made during a 3 days game jam with the theme of "life is currency". The game revolves around using your hp for bullets in exchange for the souls that you need to collect to finish the game.</td>
-      <td valign="text-top"">This game the first game that I got fully made and released. Work Less Play More is a 2D beat-em-up game with a unique mechanic where you need to avoid your boss attention. The game was made for Brackeys Game Jam 2022.1 with the theme "This is not real".<div></div></td>
+      <td valign="text-top"">A 3D horror maze game where your goal is to collect the artifact that is hidden behind 5 gates, open the gates and get to the artifact but don't get caught by the monsters or you will die. This game was made during a 1 month game developing competition.<div></div></td>
     </tr>
     <tr>
       <td><a href="https://hopiummoon.itch.io/bloodpriest">Itch.io Page</td>
