@@ -7,7 +7,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://hopiummoon.itch.io/bloodpriest">BloodPriest</a></th>
+      <th width="50%"><a href="https://github.com/Lemun8/BloodPriest">BloodPriest</a></th>
       <th width="50%"><a href="https://github.com/Lemun8/Tomb-of-Shadows-Curse-of-the-Nile">Tomb of Shadows: Curse of the Nile</a></th>
     </tr>
   </thead>
