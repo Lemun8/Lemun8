@@ -31,27 +31,6 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 <br>
 
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="100%"><a href="https://bgdc.itch.io/keep-yourself-alive">Keep Yourself Alive 💀</a></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://github.com/wainini/wainini/blob/main/img/keep%20yourself%20alive%20400x225.gif"/></td>
-    </tr>
-    <tr>
-      <td valign="text-top">This one was made for Ludum Dare 50 which theme was "Delay the inevitable". It's a simple top-down survival game. The caveat is that your HP is always decreasing, making you always on the run for the randomly spawned heals.</td>
-    </tr>
-    <tr>
-      <td><a href="https://bgdc.itch.io/keep-yourself-alive">Itch Page</td>
-    </tr>
-    <tr>
-      <td><a href="https://ldjam.com/events/ludum-dare/50/keep-yourself-alive">Jam Page</td>
-    </tr>
-  </tbody>
-</table>
         
 # Current Projects:
 - [Life of a Driver](https://github.com/Lemun8/Life-of-a-Driver) (Work in Progress)
