@@ -31,10 +31,10 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 <br>
 
 
-<table width="50%">
+<table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://bgdc.itch.io/keep-yourself-alive">Keep Yourself Alive 💀</a></th>
+      <th width="100%"><a href="https://bgdc.itch.io/keep-yourself-alive">Keep Yourself Alive 💀</a></th>
     </tr>
   </thead>
   <tbody>
