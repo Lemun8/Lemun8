@@ -31,7 +31,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 <br>
 
 
-<table width="100%">
+<table width="50%">
   <thead>
     <tr>
       <th width="50%"><a href="https://bgdc.itch.io/keep-yourself-alive">Keep Yourself Alive 💀</a></th>
