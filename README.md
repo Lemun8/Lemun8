@@ -39,7 +39,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 - Simple 2D Maze Game
 - Pong
 - Othello
-- Space Invaders
+- [Space Invaders](https://github.com/Lemun8/SpaceInvader-PracticeProject-)
 
 # Contacts
 - Discord: lemon8299
