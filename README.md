@@ -36,7 +36,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 - [Life of a Driver](https://github.com/Lemun8/Life-of-a-Driver) (Work in Progress)
 
 # Practice Projects:
-- Simple 2D Maze Game
+- [Simple 2D Maze Game](https://github.com/Lemun8/SimpleMazeGame)
 - Pong
 - Othello
 - [Space Invaders](https://github.com/Lemun8/SpaceInvader-PracticeProject-)
