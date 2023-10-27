@@ -37,8 +37,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 
 # Practice Projects:
 - [Simple 2D Maze Game](https://github.com/Lemun8/SimpleMazeGame)
-- Pong
-- Othello
+- [Othello](https://github.com/Lemun8/Othello)
 - [Space Invaders](https://github.com/Lemun8/SpaceInvader-PracticeProject-)
 
 # Contacts
