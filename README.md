@@ -33,7 +33,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
   <thead>
     <tr>
       <th width="50%"><a href="https://github.com/Lemun8/BloodPriest">BloodPriest</a></th>
-      <th/a></th>
+      <th></a></th>
     </tr>
   </thead>
   <tbody>
@@ -47,7 +47,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
     </tr>
     <tr>
       <td><a href="https://hopiummoon.itch.io/bloodpriest">Itch.io Page</td>
-      <td><a >Itch.io Page</td>
+      <td><a ></td>
     </tr>
     <tr>
     </tr>
