@@ -45,7 +45,6 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
       <td><a href="https://hopiummoon.itch.io/bloodpriest">Itch.io Page</td>
     </tr>
   </tbody>
-</table>
 
 
         
