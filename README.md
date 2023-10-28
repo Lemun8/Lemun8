@@ -32,7 +32,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://github.com/Lemun8/BloodPriest">BloodPriest</a></th>
+      <th width="50%"><a href="https://github.com/Lemun8/BloodPriest">Life of a Driver</a></th>
       <th></a></th>
     </tr>
   </thead>
