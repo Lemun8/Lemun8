@@ -32,13 +32,13 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a ![Screenshot 2023-10-29 131928](https://github.com/Lemun8/Lemun8/assets/107360799/be1f3ac1-a9af-4128-a672-4f896d68ed6c)>Life of a Driver</a></th>
+      <th width="50%"><a href= https://github.com/Lemun8/Life-of-a-Driver>Life of a Driver</a></th>
       <th></a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/Lemun8/Lemun8/assets/107360799/9f08574e-7361-46a9-bd62-b1472736e96c"/></td>
+      <td><img src=![Screenshot 2023-10-29 131928](https://github.com/Lemun8/Lemun8/assets/107360799/6854e27b-aa0a-4291-8b29-b68ab1215a48)/></td>
       <td></td>
     </tr>
     <tr>
