@@ -42,11 +42,11 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
       <td></td>
     </tr>
     <tr>
-      <td valign="text-top">A top down shooter game that was made during a 3 days game jam with the theme of "life is currency". The game revolves around using your hp for bullets in exchange for the souls that you need to collect to finish the game.</td>
+      <td valign="text-top">A game where you live the day to day life of a driver thats trying to make enough money so that he can pay his debts to the loan sharks. You will have a time limit before the due date, get your priorities straight and make enough money.</td>
       <td valign="text-top""><div></div></td>
     </tr>
     <tr>
-      <td><a href="https://hopiummoon.itch.io/bloodpriest">Itch.io Page</td>
+      <td><a>Itch.io Page</td>
       <td><a ></td>
     </tr>
     <tr>
