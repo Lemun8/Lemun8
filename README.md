@@ -63,8 +63,8 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://github.com/Lemun8/BloodPriest">BloodPriest</a></th>
-      <th width="50%"><a href="https://github.com/Lemun8/Tomb-of-Shadows-Curse-of-the-Nile">Tomb of Shadows: Curse of the Nile</a></th>
+      <th width="50%"><a href="https://github.com/Lemun8/BloodPriest">Simple Maze Game</a></th>
+      <th width="50%"><a href="https://github.com/Lemun8/Tomb-of-Shadows-Curse-of-the-Nile">Space Invader</a></th>
     </tr>
   </thead>
   <tbody>
@@ -77,10 +77,6 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
       <td valign="text-top"">A 3D horror maze game where your goal is to collect the artifact that is hidden behind 5 gates, open the gates and get to the artifact but don't get caught by the monsters or you will die. This game was made during a 1 month game developing competition.<div></div></td>
     </tr>
     <tr>
-      <td><a href="https://hopiummoon.itch.io/bloodpriest">Itch.io Page</td>
-      <td><a href="https://hopiummoon.itch.io/tomb-of-shadows-curse-of-the-nile">Itch.io Page</td>
-    </tr>
-    <tr>
     </tr>
   </tbody>
 </table>
@@ -88,7 +84,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href= https://github.com/Lemun8/Life-of-a-Driver>Life of a Driver</a></th>
+      <th width="50%"><a href= https://github.com/Lemun8/Life-of-a-Driver>Othello</a></th>
       <th></a></th>
     </tr>
   </thead>
@@ -100,10 +96,6 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
     <tr>
       <td valign="text-top">A game where you live the day to day life of a driver thats trying to make enough money so that he can pay his debts to the loan sharks. You will have a time limit before the due date, get your priorities straight and make enough money.</td>
       <td valign="text-top""><div></div></td>
-    </tr>
-    <tr>
-      <td><a>Itch.io Page</td>
-      <td><a ></td>
     </tr>
     <tr>
     </tr>
