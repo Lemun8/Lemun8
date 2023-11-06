@@ -63,7 +63,8 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://github.com/Lemun8/Lemun8/assets/107360799/cc455adf-b2a5-428a-8db2-3419c41152fc">Simple Maze Game</a></th>
+      <th width="50%"><a ![image (1)](https://github.com/Lemun8/Lemun8/assets/107360799/4b83882c-f0a5-4623-93fc-b38fae6b0ef7)
+>Simple Maze Game</a></th>
       <th width="50%"><a href="https://github.com/Lemun8/Tomb-of-Shadows-Curse-of-the-Nile">Space Invader</a></th>
     </tr>
   </thead>
