@@ -84,7 +84,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 <table width="100%">
   <thead>
     <tr>
-      <th width="100%"><a href= https://github.com/Lemun8/Life-of-a-Driver>Othello</a></th>
+      <th width="50%"><a href= https://github.com/Lemun8/Life-of-a-Driver>Othello</a></th>
       <th></a></th>
     </tr>
   </thead>
