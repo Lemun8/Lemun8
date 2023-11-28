@@ -70,7 +70,8 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
   <tbody>
     <tr>
       <td><img src="https://github.com/Lemun8/Lemun8/assets/107360799/1826baaf-d845-4d39-8221-ecb650d9d805"/></td>
-      <td><img src="https://github.com/Lemun8/Lemun8/assets/107360799/fc3a5ccb-7af6-491c-98d5-de0bda99fe55"/></td>
+      <td><img src="![ezgif-3-b96cca8363](https://github.com/Lemun8/Lemun8/assets/107360799/603984bb-8dc2-4fbf-86b1-41262c5d94a0)
+"/></td>
     </tr>
     <tr>
       <td valign="text-top">Simple 2D maze game that was a part of my project for college.</td>
