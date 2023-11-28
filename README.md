@@ -64,7 +64,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
   <thead>
     <tr>
       <th width="50%"><a href="https://github.com/Lemun8/SimpleMazeGame">Simple Maze Game</a></th>
-      <th width="50%"><a href="https://github.com/Lemun8/Tomb-of-Shadows-Curse-of-the-Nile">Space Invader</a></th>
+      <th width="50%"><a href="https://github.com/Lemun8/SpaceInvader-PracticeProject-">Space Invader</a></th>
     </tr>
   </thead>
   <tbody>
