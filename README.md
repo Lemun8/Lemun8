@@ -69,7 +69,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/Lemun8/Lemun8/assets/107360799/6d697103-1680-433d-927f-ec9eeef8e0b2"/></td>
+      <td><img src="https://github.com/Lemun8/Lemun8/assets/107360799/1826baaf-d845-4d39-8221-ecb650d9d805"/></td>
       <td><img src="https://github.com/Lemun8/Lemun8/assets/107360799/2368035c-c06e-41da-a15b-c5e0867758d1"/></td>
     </tr>
     <tr>
