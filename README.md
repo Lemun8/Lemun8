@@ -47,7 +47,6 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
     </tr>
     <tr>
       <td><a>Itch.io Page</td>
-      <td><a ></td>
     </tr>
     <tr>
     </tr>
