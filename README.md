@@ -43,7 +43,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
     </tr>
     <tr>
       <td valign="text-top">A game where you live the day to day life of a driver thats trying to make enough money so that he can pay his debts to the loan sharks. You will have a time limit before the due date, get your priorities straight and make enough money.</td>
-     <td valign="text-top">Othello game that was a part of my project for college.</td>
+     <td valign="text-top">Othello game that was a part of my practice project for college.</td>
     </tr>
     <tr>
       <td><a>Itch.io Page</td>
@@ -66,8 +66,8 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
       <td><img src="https://github.com/Lemun8/Lemun8/assets/107360799/d90c81cf-7f7d-4ef8-a9dd-28930669439b"/></td>
     </tr>
     <tr>
-      <td valign="text-top">Simple 2D maze game that was a part of my project for college.</td>
-      <td valign="text-top"">Space Invader game that was a part of my project for college<div></div></td>
+      <td valign="text-top">Simple 2D maze game that was a part of my practice project for college.</td>
+      <td valign="text-top"">Space Invader game that was a part of my practice project for college.<div></div></td>
     </tr>
     <tr>
     </tr>
