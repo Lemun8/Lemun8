@@ -85,7 +85,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
   <thead>
     <tr>
       <th width="50%"><a href="https://github.com/Lemun8/Othello">Othello</a></th>
-      <th width="50%"></a></th>
+      <th width="50%"><a>(Place Holder)</a></th>
     </tr>
   </thead>
   <tbody>
