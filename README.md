@@ -54,11 +54,6 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
   </tbody>
 </table>
 
-
-        
-# Current Projects:
-- [Life of a Driver](https://github.com/Lemun8/Life-of-a-Driver) (Work in Progress)
-
 # Practice Projects:
 <table width="100%">
   <thead>
@@ -101,6 +96,9 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
     </tr>
   </tbody>
 </table>
+
+# Current Projects:
+- [Life of a Driver](https://github.com/Lemun8/Life-of-a-Driver) (Work in Progress)
 
 # Contacts
 - Discord: lemon8299
