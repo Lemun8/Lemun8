@@ -33,17 +33,17 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
   <thead>
     <tr>
       <th width="50%"><a href= https://github.com/Lemun8/Life-of-a-Driver>Life of a Driver</a></th>
-      <th></a></th>
+      <th width="50%"><a href="https://github.com/Lemun8/Othello">Othello</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><img src="https://github.com/Lemun8/Lemun8/assets/107360799/6854e27b-aa0a-4291-8b29-b68ab1215a48"/></td>
-      <td></td>
+      <td><img src="https://github.com/Lemun8/Lemun8/assets/107360799/b9542b7e-c789-4e99-9c52-e0dd9968522b"/></td>
     </tr>
     <tr>
       <td valign="text-top">A game where you live the day to day life of a driver thats trying to make enough money so that he can pay his debts to the loan sharks. You will have a time limit before the due date, get your priorities straight and make enough money.</td>
-      <td valign="text-top""><div></div></td>
+     <td valign="text-top">Othello game that was a part of my project for college.</td>
     </tr>
     <tr>
       <td><a>Itch.io Page</td>
@@ -54,7 +54,6 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
   </tbody>
 </table>
 
-# Practice Projects:
 <table width="100%">
   <thead>
     <tr>
@@ -70,27 +69,6 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
     <tr>
       <td valign="text-top">Simple 2D maze game that was a part of my project for college.</td>
       <td valign="text-top"">Space Invader game that was a part of my project for college<div></div></td>
-    </tr>
-    <tr>
-    </tr>
-  </tbody>
-</table>
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="50%"><a href="https://github.com/Lemun8/Othello">Othello</a></th>
-      <th width="50%"><a>(Place Holder)</a></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://github.com/Lemun8/Lemun8/assets/107360799/b9542b7e-c789-4e99-9c52-e0dd9968522b"/></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td valign="text-top">Othello game that was a part of my project for college.</td>
-      <td valign="text-top""><div></div></td>
     </tr>
     <tr>
     </tr>
