@@ -74,6 +74,27 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
   </tbody>
 </table>
 
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%"><a href="https://github.com/Lemun8/SimpleMazeGame">Simple Maze Game</a></th>
+      <th><a/a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/Lemun8/Lemun8/assets/107360799/1826baaf-d845-4d39-8221-ecb650d9d805"/></td>
+      <td></></td>
+    </tr>
+    <tr>
+      <td valign="text-top">Simple 2D maze game that was a part of my practice project for college.</td>
+      <td ""><div></div></td>
+    </tr>
+    <tr>
+    </tr>
+  </tbody>
+</table>
+
 # Current Projects:
 - [Life of a Driver](https://github.com/Lemun8/Life-of-a-Driver) (Work in Progress)
 
