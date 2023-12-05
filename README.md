@@ -18,7 +18,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
     </tr>
     <tr>
       <td valign="text-top">A top down shooter game that was made during a 3 days IGI game jam in July 2023 with the theme of "life is currency". The game revolves around using your hp for bullets in exchange for the souls that you need to collect to finish the game.</td>
-      <td valign="text-top"">A 3D horror maze game where your goal is to collect the artifact that is hidden behind 5 gates, open the gates and get to the artifact but don't get caught by the monsters or you will die. This game was made during a 1 month IGI Compfest August 20203 game developing competition.<div></div></td>
+      <td valign="text-top"">A 3D horror maze game where your goal is to collect the artifact that is hidden behind 5 gates, open the gates and get to the artifact but don't get caught by the monsters or you will die. This game was made during a 1 month IGI Compfest August 2023 game developing competition.<div></div></td>
     </tr>
     <tr>
       <td><a href="https://hopiummoon.itch.io/bloodpriest">Itch.io Page</td>
