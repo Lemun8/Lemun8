@@ -74,29 +74,6 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
   </tbody>
 </table>
 
-# Test Projects:
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="50%"><a href="https://github.com/Lemun8/SimpleMazeGame">MOBA Mechanics</a></th>
-      <th><a/a></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://github.com/Lemun8/Lemun8/assets/107360799/44a9fb20-725d-48f3-8f73-444a8df94157"/></td>
-      <td></></td>
-    </tr>
-    <tr>
-      <td valign="text-top">MOBA mechanics system.</td>
-      <td ""><div></div></td>
-    </tr>
-    <tr>
-    </tr>
-  </tbody>
-</table>
-
 # Current Projects:
 - [Life of a Driver](https://github.com/Lemun8/Life-of-a-Driver) (Work in Progress)
 - MOBA Mechanics
