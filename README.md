@@ -76,7 +76,6 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 
 # Current Projects:
 - [Life of a Driver](https://github.com/Lemun8/Life-of-a-Driver) (Work in Progress)
-- MOBA Mechanics
 
 # Contacts
 - Discord: lemon8299
