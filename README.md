@@ -56,7 +56,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://github.com/Lemun8/SimpleMazeGame">Simple Maze Game</a></th>
+      <th width="50%"><a href="https://github.com/Lemun8/SimpleMazeGame">RPG Simulator</a></th>
       <th width="50%"><a href="https://github.com/Lemun8/SpaceInvader-PracticeProject-">Space Invader</a></th>
     </tr>
   </thead>
@@ -66,7 +66,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
       <td><img src="https://github.com/Lemun8/Lemun8/assets/107360799/d90c81cf-7f7d-4ef8-a9dd-28930669439b"/></td>
     </tr>
     <tr>
-      <td valign="text-top">Simple 2D maze game that was a part of my practice project for college.</td>
+      <td valign="text-top">RPG Simulator is a 3D game that has combat mechanics, inventory system, player movement, camera movement, and enemies. The goal of the game is very simple just need to kill the 3 skeletons and go to the portal to beat the game.</td>
       <td valign="text-top"">Space Invader game that was a part of my practice project for college.<div></div></td>
     </tr>
     <tr>
@@ -75,7 +75,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 </table>
 
 # Current Projects:
-- [Life of a Driver](https://github.com/Lemun8/Life-of-a-Driver) (Work in Progress)
+- Working on a Godot Top Down Shooter Game
 
 # Contacts
 - Discord: lemon8299
