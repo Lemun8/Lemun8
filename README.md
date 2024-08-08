@@ -56,13 +56,13 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://github.com/Lemun8/SimpleMazeGame">RPG Simulator</a></th>
+      <th width="50%"><a href="https://github.com/Lemun8/RPG-Simulator">RPG Simulator</a></th>
       <th width="50%"><a href="https://github.com/Lemun8/SpaceInvader-PracticeProject-">Space Invader</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/Lemun8/Lemun8/assets/107360799/1826baaf-d845-4d39-8221-ecb650d9d805"/></td>
+      <td><img src="https://github.com/user-attachments/assets/5480ceb3-3a2b-4f66-90f1-1698e4fc2fce"/></td>
       <td><img src="https://github.com/Lemun8/Lemun8/assets/107360799/d90c81cf-7f7d-4ef8-a9dd-28930669439b"/></td>
     </tr>
     <tr>
