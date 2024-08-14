@@ -57,25 +57,22 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
   <thead>
     <tr>
       <th width="50%"><a href="https://github.com/Lemun8/RPG-Simulator">RPG Simulator</a></th>
-      <th width="50%"><a href="https://github.com/Lemun8/SpaceInvader-PracticeProject-">Space Invader</a></th>
+      <th width="50%"><a href="https://github.com/Lemun8/TopDownShooterGodot">Top Down Shooter Godot</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/5480ceb3-3a2b-4f66-90f1-1698e4fc2fce"/></td>
-      <td><img src="https://github.com/Lemun8/Lemun8/assets/107360799/d90c81cf-7f7d-4ef8-a9dd-28930669439b"/></td>
+      <td><img src="https://github.com/user-attachments/assets/73455bc7-0aa6-43f8-8d23-fae7e7c18dea"/></td>
     </tr>
     <tr>
       <td valign="text-top">RPG Simulator is a 3D game that has combat mechanics, inventory system, player movement, camera movement, and enemies. The goal of the game is very simple just need to kill the 3 skeletons and go to the portal to beat the game.</td>
-      <td valign="text-top"">Space Invader game that was a part of my practice project for college.<div></div></td>
+      <td valign="text-top"">A simple top down shooter game, this project was my first ever project in Godot<div></div></td>
     </tr>
     <tr>
     </tr>
   </tbody>
 </table>
-
-# Current Projects:
-- Working on a Godot Top Down Shooter Game
 
 # Contacts
 - Discord: lemon8299
