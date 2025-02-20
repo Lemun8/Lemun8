@@ -1,6 +1,6 @@
 # Hello, I'm Johan Ariel
 
-Nice to meet you! I'm currently an undergraduate student at Bina Nusantara University studying Game Application & Technology. I am currently a game programmer & game designer at my personal team [Hopium](https://hopium.itch.io/)
+Nice to meet you! I'm currently an undergraduate student at Bina Nusantara University studying Game Application & Technology. I am currently a game programmer at my personal team [Rook Division](https://itch.io/profile/rookdivision)
 
 # Here are highlights from some of the games I made:
 
