@@ -59,7 +59,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
   <thead>
     <tr>
       <th width="50%"><a href="https://github.com/Lemun8/RPG-Simulator">RPG Simulator</a></th>
-      <th width="50%"><a href="https://github.com/Lemun8/TopDownShooterGodot">Nigirun Sushi</a></th>
+      <th width="50%"><a href="https://github.com/KucingMaboek/sushi-game">Nigirun Sushi</a></th>
     </tr>
   </thead>
   <tbody>
