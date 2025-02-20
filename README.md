@@ -39,15 +39,14 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
   <tbody>
     <tr>
       <td><img src="https://github.com/Lemun8/Lemun8/assets/107360799/63a2d272-0d48-4699-a3cf-d441f260139d"/></td>
-      <td><img src="https://github.com/user-attachments/assets/0381336f-343d-49cc-8dc7-2e984f61d22a"
-/></td>
+      <td><img src="https://github.com/user-attachments/assets/0381336f-343d-49cc-8dc7-2e984f61d22a"/></td>
     </tr>
     <tr>
       <td valign="text-top">A game where you live the day to day life of a driver thats trying to make enough money so that he can pay his debts to the loan sharks. You will have a time limit before the due date, get your priorities straight and make enough money.</td>
      <td valign="text-top">A puzzle game where you have to control a shadow creature and manuver obstacles and dodge enemies. Don't get caught!</td>
     </tr>
     <tr>
-      <td>Itch.io Page</td>
+      <td><a href="https://hopiummoon.itch.io/life-of-a-driver">Itch.io Page</td>
       <td><a href="https://rookdivision.itch.io/tiny-shadows">Itch.io Page</td>
     </tr>
     <tr>
@@ -65,8 +64,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
   <tbody>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/5480ceb3-3a2b-4f66-90f1-1698e4fc2fce"/></td>
-      <td><img src="https://github.com/user-attachments/assets/580602a6-4851-43ac-8588-c04d60c071f7"
-/></td>
+      <td><img src="https://github.com/user-attachments/assets/580602a6-4851-43ac-8588-c04d60c071f7"/></td>
     </tr>
     <tr>
       <td valign="text-top">RPG Simulator is a 3D game that has combat mechanics, inventory system, player movement, camera movement, and enemies. The goal of the game is very simple just need to kill the 3 skeletons and go to the portal to beat the game.</td>
