@@ -32,21 +32,20 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://github.com/Lemun8/Life-of-a-Driver">Life of a Driver</a></th>
+      <th width="50%"><a href="https://github.com/Lemun8/Life-of-a-Driver">Ninja Saga Remake</a></th>
       <th width="50%"><a href="https://github.com/Lemun8/TinyShadows">Tiny Shadows</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/user-attachments/assets/8c4f431e-539a-465e-b381-dcc40a22c433"/></td>
+      <td><img src="https://github.com/user-attachments/assets/d916a38b-0f2d-4710-9271-21d65047bfda"/></td>
       <td><img src="https://github.com/user-attachments/assets/0381336f-343d-49cc-8dc7-2e984f61d22a"/></td>
     </tr>
     <tr>
-      <td valign="text-top">A game where you live the day to day life of a driver thats trying to make enough money so that he can pay his debts to the loan sharks. You will have a time limit before the due date, get your priorities straight and make enough money.</td>
+      <td valign="text-top">A prototype remake of an old fan favorite game Ninja Saga, remade with Unity Game Engine.</td>
      <td valign="text-top">A puzzle game where you have to control a shadow creature and manuver obstacles and dodge enemies. Don't get caught!</td>
     </tr>
     <tr>
-      <td><a href="https://hopiummoon.itch.io/life-of-a-driver">Itch.io Page</td>
       <td><a href="https://rookdivision.itch.io/tiny-shadows">Itch.io Page</td>
     </tr>
     <tr>
