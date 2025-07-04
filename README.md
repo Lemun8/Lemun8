@@ -46,6 +46,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
      <td valign="text-top">A puzzle game where you have to control a shadow creature and manuver obstacles and dodge enemies. Don't get caught!</td>
     </tr>
     <tr>
+      <td><a></td>
       <td><a href="https://rookdivision.itch.io/tiny-shadows">Itch.io Page</td>
     </tr>
     <tr>
