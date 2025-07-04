@@ -32,7 +32,7 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://github.com/Lemun8/Life-of-a-Driver">Ninja Saga Remake</a></th>
+      <th width="50%"><a">Ninja Saga Remake</a></th>
       <th width="50%"><a href="https://github.com/Lemun8/TinyShadows">Tiny Shadows</a></th>
     </tr>
   </thead>
