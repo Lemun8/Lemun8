@@ -75,7 +75,28 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
   </tbody>
 </table>
 
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%"><a>Social Anxiety Disorder Simulator VR</a></th>
+      <th width="50%"><a></a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/1828f76e-2b8b-4546-98f2-72177072829f"/></td>
+      <td></></td>
+    </tr>
+    <tr>
+      <td valign="text-top">Developed a Simulator game in VR for the final thesis project, the goal of the game is to detect an early sign of a social anxiety disorder in a person. The game is a branching option dialogue simulator game, each answer has different end results regarding the severity level of social anxiety in a person.</td>
+      <td valign="text-top""><div></div></td>
+    </tr>
+    <tr>
+    </tr>
+  </tbody>
+</table>
+
 # Contacts
 - Discord: lemon8299
-- Email: maphuders4@gmail.com
+- Email: johanariel45@gmail.com
 - Whatsapp: 0812-9396-7625
