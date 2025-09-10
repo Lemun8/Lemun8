@@ -79,17 +79,17 @@ Nice to meet you! I'm currently an undergraduate student at Bina Nusantara Unive
   <thead>
     <tr>
       <th width="50%"><a>Social Anxiety Disorder Simulator VR</a></th>
-      <th width="50%"><a></a></th>
+      <th width="50%"><a></a>AR Image Track Pet</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/1828f76e-2b8b-4546-98f2-72177072829f"/></td>
-      <td></></td>
+      <td><img src="https://github.com/user-attachments/assets/b92e9268-ef50-43cc-b919-286c54b5aa37"/></td>
     </tr>
     <tr>
       <td valign="text-top">Developed a Simulator game in VR for the final thesis project, the goal of the game is to detect an early sign of a social anxiety disorder in a person. The game is a branching option dialogue simulator game, each answer has different end results regarding the severity level of social anxiety in a person.</td>
-      <td valign="text-top""><div></div></td>
+      <td valign="text-top""><div>Developed a pet simulator game where you can make your pet do animations, the game uses AR technology to scan an image and spawns a pet that you can play with.</div></td>
     </tr>
     <tr>
     </tr>
